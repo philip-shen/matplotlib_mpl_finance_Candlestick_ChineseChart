@@ -34,7 +34,7 @@ python-dateutil==2.7.5
 pytz==2018.7
 PyYAML==3.13
 requests==2.20.1
-rsa==4.0
+rsa==4.1
 six==1.11.0
 TA-Lib==0.4.17
 twstock==1.1.1
